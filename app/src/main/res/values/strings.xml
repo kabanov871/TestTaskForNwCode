@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestTaskForNwCode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="select_category">Select a category:</string>
+
+    <string name="backgrounds">backgrounds</string>
+    <string name="fashion">fashion</string>
+    <string name="nature">nature</string>
+    <string name="science">science</string>
+    <string name="travel">travel</string>
+    <string name="industry">industry</string>
+    <string name="computer">computer</string>
+    <string name="animals">animals</string>
+
+    <string name="set">set</string>
+
+    <string name="load_fail">Load fail</string>
+    <string name="load">Load</string>
+    <string name="set_ok">The image is set</string>
+</resources>
